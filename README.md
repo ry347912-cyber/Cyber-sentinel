@@ -38,7 +38,7 @@
 
 <br/>
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📖 Documentation](#-system-architecture) &nbsp;·&nbsp; [🤝 Contribute](#-contributing) &nbsp;·&nbsp; [📧 Contact](#-author)
+[🚀 Live Demo](https://cyber-sentinel-aytr.onrender.com) &nbsp;·&nbsp; [📖 Documentation](#-system-architecture) &nbsp;·&nbsp; [🤝 Contribute](#-contributing) &nbsp;·&nbsp; [📧 Contact](mailto:ry347912@gmail.com)
 
 </div>
 
