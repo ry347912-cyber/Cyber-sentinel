@@ -432,6 +432,36 @@ Ideas for contributions:
 - [ ] Dockerized deployment
 
 ---
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🖥️ Live Dashboard
+![Dashboard](Screenshot%202026-05-01%20152221.png)
+
+### ⚡ Live Attacks
+![Attacks](Screenshot%202026-05-01%20152240.png)
+
+### 📋 Logs Page
+![Logs](Screenshot%202026-05-01%20152305.png)
+
+### ⚙️ Settings
+![Settings](Screenshot%202026-05-01%20152332.png)
+
+### 🤖 AI Chatbot
+![AI Chat](Screenshot%202026-05-01%20153041.png)
+
+### 📊 More Views
+![View1](Screenshot%202026-05-01%20153109.png)
+![View2](Screenshot%202026-05-01%20153131.png)
+![View3](Screenshot%202026-05-01%20153145.png)
+![View4](Screenshot%202026-05-01%20153205.png)
+
+</div>
+
+---
 
 ## 👨‍💻 Author
 
